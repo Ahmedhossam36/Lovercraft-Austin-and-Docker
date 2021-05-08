@@ -1,6 +1,6 @@
 import string
-book_string1 =open('/home/ahmed/Documents/cloud_assig/Beyond the Wall of Sleep').read().lower()
-book_string2 =open('/home/ahmed/Documents/cloud_assig/Pride and Prejudice').read().lower()
+book_string1 =open('/home/ahmed/Documents/cloud_assig/Beyond the Wall of Sleep').read().lower()  #change the path to your book txt file path
+book_string2 =open('/home/ahmed/Documents/cloud_assig/Pride and Prejudice').read().lower()   #change the path to your book txt file path
 
 
 un_used_words = ['i', 'you', 'he', 'she', 'it', 'we', 'they','mine', 'yours', 'his', 'hers', 'ours', 'theirs',
